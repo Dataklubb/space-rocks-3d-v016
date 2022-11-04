@@ -1,0 +1,51 @@
+{
+    "name": "Space Rocks 3D! (v0.16)",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "palette": "*",
+        "controller": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "triangle.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.44",
+        "tag": "v1.3.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d1e057830c0eebc87e3e400f2106c8e1f0e5a077",
+        "target": "1.10.36",
+        "pxt": "6.8.33",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#111111",
+        "#222222",
+        "#333333",
+        "#444444",
+        "#555555",
+        "#666666",
+        "#777777",
+        "#888888",
+        "#999999",
+        "#aaaaaa",
+        "#bbbbbb",
+        "#cccccc",
+        "#dddddd",
+        "#eeeeee",
+        "#ffffff"
+    ]
+}
